@@ -20,7 +20,7 @@ I’m currently learning:
 ## ⚡ Entrepreneurship
 - **Arguedas Project:** I am building a eLearning Platform for Pre-University and University Academias 🚀
 If you want to know more about this project, click here.
-- **Florencia Labs:** Starting my own Software Company to solve critical issues in my region.
+- **Bentu.tech:** Starting my own Software Company to solve critical issues in my region.
 
 ## 🎮 Wanna play a game?
 - 🐻 Dota 2
